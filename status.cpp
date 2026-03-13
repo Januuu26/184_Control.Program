@@ -14,4 +14,7 @@ using namespace std;
     }
 
     int main() {
-    }
+         float nilBI, nilMT, rata_rata; 
+        string status;
+
+        
