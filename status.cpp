@@ -12,3 +12,6 @@ using namespace std;
             return "Tidak Lulus";
         
     }
+
+    int main() {
+    }
